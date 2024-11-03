@@ -1,0 +1,12 @@
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\bin\Debug\OutputAndVariable.exe.config
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\bin\Debug\OutputAndVariable.exe
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\bin\Debug\OutputAndVariable.pdb
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\bin\Debug\OutputAndVariable.xml
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\obj\Debug\OutputAndVariable.vbproj.AssemblyReference.cache
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\obj\Debug\OutputAndVariable.Form1.resources
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\obj\Debug\OutputAndVariable.Resources.resources
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\obj\Debug\OutputAndVariable.vbproj.GenerateResource.cache
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\obj\Debug\OutputAndVariable.vbproj.CoreCompileInputs.cache
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\obj\Debug\OutputAndVariable.exe
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\obj\Debug\OutputAndVariable.xml
+C:\Users\Nafiu\Desktop\Visual Basic\OutputAndVariable\obj\Debug\OutputAndVariable.pdb
